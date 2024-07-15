@@ -12,6 +12,10 @@ I'm a solar astrophysicist currently working as a postdoctoral researcher at Sou
 - Data Visualization
 - Photography
 
+## Public Repositories
+
+- [![AFTpy](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/bibhuraushan/bibhuraushan/aftpy)
+
 ## Get in Touch
 
 - 📫 Email: [Email](mailto:bibhuraushan1@gmail.com)
