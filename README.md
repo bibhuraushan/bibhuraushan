@@ -14,7 +14,7 @@ I'm a solar astrophysicist currently working as a postdoctoral researcher at Sou
 
 ## Public Repositories
 
-- [AFTpy](https://github.com/bibhuraushan/aftpy)
+- [AFTpy](https://github.com/bibhuraushan/aftpy) : To download, read, analyze, Visualize and Convert AFT HDF5 data.
 
 ## Get in Touch
 
