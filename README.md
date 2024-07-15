@@ -14,7 +14,7 @@ I'm a solar astrophysicist currently working as a postdoctoral researcher at Sou
 
 ## Public Repositories
 
-- [![AFTpy](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/bibhuraushan/bibhuraushan/aftpy)
+- [AFTpy](https://github.com/bibhuraushan/aftpy)
 
 ## Get in Touch
 
