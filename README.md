@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a solar astrophysicist currently working as a postdoctoral researcher at Southwest Research Institute, Boulder. My research focuses on solar astrophysics, surface flux transport model etc. Apart from my academic pursuits, I have a keen interest in coding, data visualization, and photography.
+I'm a solar astrophysicist currently working as a research scientist at Southwest Research Institute, Boulder. My research focuses on solar astrophysics, surface flux transport model etc. Apart from my academic pursuits, I have a keen interest in coding, data visualization, and photography.
 
 ## Interests
 
