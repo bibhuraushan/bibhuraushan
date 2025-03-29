@@ -25,5 +25,5 @@ I'm a solar astrophysicist currently working as a research scientist at Southwes
 Feel free to reach out if you have any questions or want to collaborate on a project!
 
 # Current Progress in the solar Polar field from AFT+HMI
-![Polar Field](https://data.boulder.swri.edu/lisa/AFT_Baseline/plots/polar_field.png)
+![Polar Field](https://data.boulder.swri.edu/lisa/AFT_Baseline/plots/polar_field.png?raw=true)
 
