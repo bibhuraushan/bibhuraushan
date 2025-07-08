@@ -25,5 +25,10 @@ I'm a solar astrophysicist currently working as a research scientist at Southwes
 Feel free to reach out if you have any questions or want to collaborate on a project!
 
 # Current Progress in the solar Polar field from AFT+HMI
-![Polar Field](https://data.boulder.swri.edu/lisa/AFT_Baseline/plots/polar_field.png?raw=true)
+<figure style="border: 1px solid #ccc; padding: 10px; width: fit-content;">
+  <img src=https://data.boulder.swri.edu/lisa/AFT_Baseline/plots/AFT_butterfly_polar.png?cachebust=1234567890" alt="Description of image" style="max-width: 100%; display: block;"/>
+  <figcaption style="text-align: center; font-style: italic; margin-top: 5px;">
+   Magnetic Butterfly Diagram, along with polar field variation, updated daily with latest available HMI LOS magnetic field data.  
+  </figcaption>
+</figure
 
